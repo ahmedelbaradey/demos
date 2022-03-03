@@ -1,0 +1,31 @@
+{
+    "image": "https://ipfs.io/ipfs/QmVpu6qKvLBnPsUM7M2TtYJastYx8hUCqUPTMJw54PtDfy?filename=4.png",
+    "tokenId": 4,
+    "name": "New NFT 4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Fan",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "PlaneNose",
+            "value": "Purple"
+        }
+    ]
+}

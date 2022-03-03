@@ -1,0 +1,47 @@
+[
+    {
+        "Background": "Yellow",
+        "Body": "Orange",
+        "Fan": "Orange",
+        "PlaneNose": "Purple",
+        "Tail": "Orange",
+        "Wings": "Blue",
+        "tokenId": 0
+    },
+    {
+        "Background": "Blue",
+        "Body": "Orange",
+        "Fan": "Purple",
+        "PlaneNose": "Orange",
+        "Tail": "Blue",
+        "Wings": "Orange",
+        "tokenId": 1
+    },
+    {
+        "Background": "Purple",
+        "Body": "Blue",
+        "Fan": "Purple",
+        "PlaneNose": "Green",
+        "Tail": "Blue",
+        "Wings": "Orange",
+        "tokenId": 2
+    },
+    {
+        "Background": "Yellow",
+        "Body": "Yellow",
+        "Fan": "Blue",
+        "PlaneNose": "Purple",
+        "Tail": "Blue",
+        "Wings": "Orange",
+        "tokenId": 3
+    },
+    {
+        "Background": "Blue",
+        "Body": "Orange",
+        "Fan": "Green",
+        "PlaneNose": "Purple",
+        "Tail": "Blue",
+        "Wings": "Blue",
+        "tokenId": 4
+    }
+]

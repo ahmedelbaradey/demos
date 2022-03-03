@@ -1,0 +1,31 @@
+{
+    "image": "https://ipfs.io/ipfs/Qmd1gtZawwsPWCDuZsFP7C2zyiu3tVY2zeQUgp8g3ySGuR?filename=2.png",
+    "tokenId": 2,
+    "name": "New NFT 2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Fan",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "PlaneNose",
+            "value": "Green"
+        }
+    ]
+}

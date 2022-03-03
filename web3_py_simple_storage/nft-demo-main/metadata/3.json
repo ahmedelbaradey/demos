@@ -1,0 +1,31 @@
+{
+    "image": "https://ipfs.io/ipfs/QmTf4vPf63X9ZZ3X3CwxhB4wssBsxfCr9sMt4LhAwjiqrd?filename=3.png",
+    "tokenId": 3,
+    "name": "New NFT 3",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fan",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "PlaneNose",
+            "value": "Purple"
+        }
+    ]
+}
