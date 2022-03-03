@@ -7,4 +7,4 @@
 
 This repo demonstrating the code from the freecodecamp video.
 And nft-image-generator from https://github.com/benyaminahmed/nft-image-generator
-It was inspired by the up to date [nft-mix](https://github.com/PatrickAlphaC/nft-mix)
+and It was inspired by the up to date [nft-mix](https://github.com/PatrickAlphaC/nft-mix)
